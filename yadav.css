@@ -1,0 +1,13 @@
+span{
+    color: crimson;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.card-img-top{
+    box-shadow: 2px 2px 20px 23px rgba(43, 43, 236, 0.297);
+}
+
+.btn btn-primary btn-lg btn-block{
+    box-shadow: 2px 2px 20px 23px rgba(237, 4, 24, 0.297);
+}
